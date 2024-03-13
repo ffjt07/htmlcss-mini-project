@@ -3,3 +3,7 @@
     --background-blue: rgb(0, 213, 255);
 }
 
+* {
+    margin: 0;
+    padding: 0;
+}
