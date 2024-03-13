@@ -1,6 +1,6 @@
 :root {
-    --blue: rgb(46, 23, 178);
-    --background-blue: rgba(4, 213, 255, 0.779);
+    --blue: rgb(9, 0, 132);
+    --background: rgba(36, 37, 37, 0.779);
 }
 
 * {
@@ -15,8 +15,10 @@ body {
 header {
     position: fixed;
     top: 0;
+    left: 0;
     width: 100%;
-    background-color: var(--background-blue);
+    height: 115px;
+    background-color: var(--background);
     color: var(--blue);
 }
 
