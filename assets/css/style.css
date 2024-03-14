@@ -33,3 +33,20 @@ header div {
 a {
     padding: 3px;
 }
+
+img {
+    height: 300px;
+    width: 200px;
+}
+
+.image-box {
+    position: relative;
+    top: 155px;
+    height: 400px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+footer {
+    position: relative;
+}
