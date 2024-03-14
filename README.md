@@ -3,6 +3,7 @@
 ## Description
 Given no starter code, used HTML and CSS exclusively to create a webpage that includes a header, title, picture, written section, contact form and footer.
 ## Live Link
+https://ffjt07.github.io/htmlcss-mini-project/
 
 ## Github Link
 https://github.com/ffjt07/htmlcss-mini-project
