@@ -1,8 +1,9 @@
+/* Root Attributes */
 :root {
     --blue: rgb(49, 139, 249);
     --background: rgba(36, 37, 37, 0.779);
 }
-
+/* Universal Attributes */
 * {
     font-family: Arial, Helvetica, sans-serif;
     color: var(--blue);
@@ -43,15 +44,6 @@ label {
     margin: 2px;
 }
 
-.image-box {
-    position: relative;
-    z-index: -1;
-    top: 145px;
-    height: 400px;
-    width: 300px;
-    margin: 0 auto;
-}
-
 footer {
     position: relative;
     margin: 0 auto;
@@ -60,6 +52,15 @@ footer {
     background-color: var(--background);
     border-top: 5px solid var(--blue);
 
+}
+
+.image-box {
+    position: relative;
+    z-index: -1;
+    top: 145px;
+    height: 400px;
+    width: 300px;
+    margin: 0 auto;
 }
 
 .about {
