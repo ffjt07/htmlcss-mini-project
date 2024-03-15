@@ -23,6 +23,7 @@ header {
     width: 100%;
     height: 115px;
     background-color: var(--background);
+    border-bottom: 5px solid var(--blue);
 }
 
 header div {
